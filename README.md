@@ -1,0 +1,2 @@
+# Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel
+Interactive Power BI dashboard for a coffee retail business showing:  Total Sales, Quantity, and Transactions  Store-wise performance (e.g., Manhattan, Astoria)  Time-wise trends (hour, weekday, month, quarter)  Product &amp; category insights  Built using Power BI, SQL, and Excel  🔧 Tools: Power BI | PostgreSQL | Excel 📁 File: power_bi_coffee.pbix
