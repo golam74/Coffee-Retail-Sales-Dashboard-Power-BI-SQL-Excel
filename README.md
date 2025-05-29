@@ -39,26 +39,43 @@ To build a clean, professional Business Intelligence dashboard that enables busi
 
 ---
 
-## 📌 Note:
-
-This project is part of my personal portfolio to demonstrate skills in:
-- Data Analysis
-- SQL Querying
-- Power BI Development
-- Visual Storytelling
-
----
-
 ## 🔗 GitHub Repository:
 
 👉 [View Full Project on GitHub](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel)
 
 ---
 
-## 💬 Feedback:
+## 📸 Screenshots & Visuals:
 
-Feel free to fork this repository, raise issues, or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) to share your thoughts and suggestions.
+![Power BI Dashboard](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-23%20210006.png)
+
+![Recording 1](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Recording%202025-05-24%20180142.mp4)
+
+![SQL Screenshot 1](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20144336.png)
+
+![SQL Screenshot 2](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20144721-1.png)
+
+![SQL Screenshot 3](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20144822-2.png)
+
+![SQL Screenshot 4](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20144918-3.png)
+
+![SQL Screenshot 5](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20145104-4.png)
+
+![SQL Screenshot 6](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20145216-5.png)
+
+![SQL Screenshot 7](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20145317-6.png)
+
+![Final Dashboard View](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/30cbd34ccd3ab9a01fbbe2ea2d819d1ef7c32222/Screenshot%202025-05-24%20180650.png)
+
+🎥 [Another Video Recording](https://github.com/golam74/Coffee-Retail-Sales-Dashboard-Power-BI-SQL-Excel/blob/182701c988c0233918682cc111264fae6ff6bda5/Recording%202025-05-23%20205928.mp4)
 
 ---
+
+## 💬 Feedback:
+
+If you like the project or have suggestions for improvement, feel free to connect or fork the repo!
+
+---
+
 
 
